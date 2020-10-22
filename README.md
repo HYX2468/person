@@ -1,0 +1,2 @@
+# person
+class test
