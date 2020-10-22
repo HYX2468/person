@@ -1,2 +1,3 @@
 # person
-class test
+课堂测试
+初来乍到，多多关照！
